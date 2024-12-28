@@ -42,9 +42,9 @@ Run the compiled program using:
 
 ## How to Play
 1. Upon running the program, you will be prompted to enter your choice:
-   - 1 for Stone
-   - 2 for Paper
-   - 3 for Scissor
+   - s for Stone
+   - p for Paper
+   - z for Scissor
 2. The computer will randomly select its choice.
 3. The program will display both choices and the result of the round (Win, Lose, or Draw).
 4. The game can continue for multiple rounds until the player decides to quit.
@@ -60,10 +60,10 @@ Run the compiled program using:
 ```
 Welcome to Stone-Paper-Scissor Game!
 Choose an option:
-1. Stone
-2. Paper
-3. Scissor
-Enter your choice: 1
+s. Stone
+p. Paper
+z. Scissor
+Enter your choice: s
 You chose: Stone
 Computer chose: Scissor
 You Win!
